@@ -1,0 +1,18 @@
+name: nutribov
+description: Balanceamento nutricional para bovinos de corte.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.38.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  shared_preferences: ^2.3.5
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
